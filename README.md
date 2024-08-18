@@ -11,8 +11,8 @@ With over 4 years of experience in Data Science, Machine Learning, and AI, I spe
 
 ### Professional Highlights 🌟
 - **Senior Data Scientist** - Global Shipping ERP Company, United States (Jun 2024 - Present)
-- **Data Scientist** - Global Shipping ERP Company (Sep 2021 - May 2024)
-- **Data Scientist** - NDA (Stealth Startup) (Oct 2020 - Jul 2021
+- **Data Scientist** - Global Shipping ERP Company,United States (Sep 2021 - May 2024)
+- **Data Scientist** - NDA (Stealth Startup),Karachi, Pakistan (Oct 2020 - Jul 2021
 
 ### Tech Toolbox 🛠️
 - **Languages**: Python, R, C++
