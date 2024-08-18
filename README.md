@@ -15,10 +15,10 @@ With over 4 years of experience in Data Science, Machine Learning, and AI, I spe
 - **Data Scientist** - NDA (Stealth Startup) (Oct 2020 - Jul 2021
 
 ### Tech Toolbox 🛠️
-**Languages**: Python, R, C++
-**Frameworks** & Libraries: PyTorch, Scikit-learn, Keras, TensorFlow, Paddle OCR, spaCy
-**Tools**: AWS, Azure, Docker, Kubernetes, FastAPI, Databricks, MongoDB
-**Specialties**: Predictive Analytics, NLP, LLMs, Time Series Forecasting, Data Processing Automation
+- **Languages**: Python, R, C++
+- **Frameworks** & Libraries: PyTorch, Scikit-learn, Keras, TensorFlow, Paddle OCR, spaCy
+- **Tools**: AWS, Azure, Docker, Kubernetes, FastAPI, Databricks, MongoDB
+- **Specialties**: Predictive Analytics, NLP, LLMs, Time Series Forecasting, Data Processing Automation
 <!--
 **Hamza1122/Hamza1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
