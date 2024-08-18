@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hello, I'm Hamza Bashir!
+## 🚀 AI/ML Engineer focusing on applied AI
+
+📍 **Pakistan**  
+📧 **Email:** [hamzabashirr465@gmail.com](mailto:hamzabashirr465@gmail.com)  
+🔗 **LinkedIn:** [hamza-bashirr](https://www.linkedin.com/in/hamza-bashirr/)  
+👨‍💻 **GitHub:** [Hamza1122](https://github.com/Hamza1122)
+
+
 
 <!--
 **Hamza1122/Hamza1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
