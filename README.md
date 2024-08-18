@@ -5,28 +5,14 @@
 🔗 **LinkedIn:** [hamza-bashirr](https://www.linkedin.com/in/hamza-bashirr/)  
 👨‍💻 **GitHub:** [Hamza1122](https://github.com/Hamza1122)
 
-
-
-### About Me 🌐
-Blending over 7 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
-
-
-### Professional Highlights 🌟
-- **AI Engineer** - Menyala, Singapore (2024 - Present)
-- **Lead AI Engineer** - OneByZero, Singapore (2023 - 2024)
-- **Senior AI Engineer** - Splore, Singapore (2023)
-- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
-
-
 ### About Me 🌐
 With over 4 years of experience in Data Science, Machine Learning, and AI, I specialize in automating processes, building predictive models, and leveraging advanced analytics to solve complex business problems. My work has significantly improved operational efficiency and provided data-driven insights across various domains, particularly in the maritime and logistics industries.
 
 
-
 ### Professional Highlights 🌟
-Senior Data Scientist - Global Shipping ERP Company, United States (Jun 2024 - Present)
-Data Scientist - Global Shipping ERP Company (Sep 2021 - May 2024)
-Data Scientist - NDA (Stealth Startup) (Oct 2020 - Jul 2021
+- **Senior Data Scientist** - Global Shipping ERP Company, United States (Jun 2024 - Present)
+- **Data Scientist** - Global Shipping ERP Company (Sep 2021 - May 2024)
+- **Data Scientist** - NDA (Stealth Startup) (Oct 2020 - Jul 2021
 
 ### Tech Toolbox 🛠️
 Languages: Python, R, C++
